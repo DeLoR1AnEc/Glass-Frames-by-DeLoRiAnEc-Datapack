@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Invisible Frames",
+        "description": "Craft invisible item frames!",
+        "icon": {
+            "item": "item_frame"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:delorianec",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

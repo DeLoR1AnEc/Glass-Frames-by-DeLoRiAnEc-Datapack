@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Uninstall datapack.",
+        "description": "/function delorianec.if:uninstall",
+        "icon": {
+            "item": "barrier"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:delorianec/invisible-frames",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
